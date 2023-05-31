@@ -8,6 +8,4 @@ Showcasing the evolution of a data-driven career, this GitHub repository contain
 - Data extraction was performed using an assortment of tools including pySQL, SQL, BigQuery, and Google Cloud Platform. 
 - The analysis was conducted using Python, specifically leveraging packages such as NumPy, Pandas, SciPy, Matplotlib, and Seaborn for hypothesis testing and data visualization.
 
-
-
 ![](/images/A1%20-%20DRUGS%20-%204%20Part%20Medicate.png)
