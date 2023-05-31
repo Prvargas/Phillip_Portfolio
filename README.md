@@ -10,4 +10,4 @@ Showcasing the evolution of a data-driven career, this GitHub repository contain
 
 
 
-![](https://github.com/Prvargas/Phillip_Portfolio/blob/main/images/A1%20-%20DRUGS%20-%204%20Part%20Medicate.png)
+![](/images/A1%20-%20DRUGS%20-%204%20Part%20Medicate.png)
