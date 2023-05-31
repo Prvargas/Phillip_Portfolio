@@ -7,3 +7,7 @@ Showcasing the evolution of a data-driven career, this GitHub repository contain
 - This project entailed a comprehensive analysis of prescription drug claims from the Center for Medicare & Medicaid Services (CMS), with the goal of gaining a deeper understanding of drug demand patterns. 
 - Data extraction was performed using an assortment of tools including pySQL, SQL, BigQuery, and Google Cloud Platform. 
 - The analysis was conducted using Python, specifically leveraging packages such as NumPy, Pandas, SciPy, Matplotlib, and Seaborn for hypothesis testing and data visualization.
+
+
+
+![](https://github.com/Prvargas/Phillip_Portfolio/blob/main/images/A1%20-%20DRUGS%20-%204%20Part%20Medicate.png)
