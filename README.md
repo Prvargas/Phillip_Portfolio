@@ -9,14 +9,6 @@ Showcasing the evolution of a data-driven career, this GitHub repository contain
 - The analysis was conducted using Python, specifically leveraging packages such as NumPy, Pandas, SciPy, Matplotlib, and Seaborn for hypothesis testing and data visualization.
 
 
-<img src="/images/A1 - DRUGS - 4 Part Medicate.png" alt="4 Parts of Medicare Pic" style="max-width: 100%; height: auto;">
-
-
-
-images/A1 - DRUGS - 4 Part Medicate.png
-
-images/A1%20-%20DRUGS%20-%204%20Part%20Medicate.png
-
 
 ![Alt Text](https://github.com/Prvargas/Phillip_Portfolio/blob/main/images/A1_DRUGS.png?raw=true)
 
