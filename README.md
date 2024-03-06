@@ -12,7 +12,7 @@ Showcasing the evolution of a data-driven career, this GitHub repository contain
 - **Strategic Career Insights**: Offers valuable insights for data scientists on career development, including the most in-demand industries, salary trends, and the importance of advanced degrees and remote work flexibility.
 
 
-![DALL·E Project Image](https://github.com/Prvargas/job-webscraper/blob/main/img/J%20-%20DALL_E%20-%20Project%20Image.png)
+![DALL·E Project Image](https://github.com/Prvargas/Phillip_Portfolio/blob/main/images/J%20-%20DALL_E%20-%20Project%20Image.png)
 
 
 
