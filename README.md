@@ -13,7 +13,7 @@ Showcasing the evolution of a data-driven career, this GitHub repository contain
 
 
 
-![DALL_E](https://github.com/Prvargas/Phillip_Portfolio/blob/main/images/P1_DALL_E.png)
+![DALL_E](/images/P1_DALL_E.png)
 
 
 
